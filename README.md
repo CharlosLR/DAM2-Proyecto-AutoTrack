@@ -23,10 +23,10 @@ La aplicación calculará las próximas revisiones a partir de los intervalos de
 
 | Integrante | Rol principal |
 |---|---|
-| [Nombre y apellidos 1] | Product Owner / Desarrollador |
-| [Nombre y apellidos 2] | Scrum Master / Desarrollador |
-| [Nombre y apellidos 3] | Desarrollador / Datos |
-| [Nombre y apellidos 4] | Desarrollador / QA |
+| Carmen Cerdán | Product Owner / Desarrollador |
+| Andrea Zamora | Scrum Master / Desarrollador |
+| Carlos López | Desarrollador / Datos |
+| Brian Falcon | Desarrollador / QA |
 
 ## Tecnologías previstas
 
@@ -63,7 +63,7 @@ El repositorio utiliza una estrategia de ramas para organizar el desarrollo y re
 
 - `main`: versión estable y validada del proyecto.
 - `develop`: rama de integración del trabajo desarrollado.
-- `feature/<nombre-tarea>`: rama individual para implementar una funcionalidad o tarea.
+- `feature/loginUsuario`: rama individual para implementar una funcionalidad o tarea.
 
 Los cambios se propondrán mediante Pull Requests vinculadas a las tareas correspondientes. Se realizarán revisiones y pruebas antes de integrar el código en `develop` y, posteriormente, publicar versiones estables en `main`.
 
@@ -83,8 +83,8 @@ Las tareas se documentarán mediante historias de usuario cuando corresponda, co
 
 ## Enlaces del proyecto
 
-- **Repositorio GitHub:** [Añadir URL del repositorio]
-- **Tablero GitHub Projects:** [Añadir URL del tablero]
+- **Repositorio GitHub:** (https://github.com/CharlosLR/DAM2-Proyecto-AutoTrack)
+- **Tablero GitHub Projects:** https://github.com/users/CharlosLR/projects/3
 - **Vídeo de presentación:** [Añadir enlace al vídeo]
 
 ## Estado del proyecto
